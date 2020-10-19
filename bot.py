@@ -2,7 +2,7 @@ from telebot import *
 from telebot.types import *
 from rextester_py import rexec
 
-bot = TeleBot("1252694259:AAFYgBplceKvun37jLw21ET5aSKDjE42a2w")
+bot = TeleBot("BOT_TOKEN)
 
 
 @bot.message_handler(commands=['start'])
